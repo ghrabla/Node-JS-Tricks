@@ -1,0 +1,25 @@
+{
+  "name": "node-js-tricks",
+  "version": "1.0.0",
+  "description": "let's learn node js ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ghrabla/Node-JS-Tricks.git"
+  },
+  "author": "kamal Rhrabla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ghrabla/Node-JS-Tricks/issues"
+  },
+  "homepage": "https://github.com/ghrabla/Node-JS-Tricks#readme",
+  "dependencies": {
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
